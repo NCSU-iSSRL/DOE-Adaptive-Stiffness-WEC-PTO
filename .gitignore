@@ -1,0 +1,17 @@
+*.hex
+*.out
+*.slxc
+*.mex*
+*.autosave
+*.bak
+slprj/
+*.log
+dp0/
+instrumented/
+*_rtw/
+vtk/
+*.lock
+*.asv
+*.project_cache
+*~$*
+*.rt-win64

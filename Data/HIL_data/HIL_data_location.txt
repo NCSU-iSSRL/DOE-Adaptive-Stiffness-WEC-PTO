@@ -1,0 +1,2 @@
+HIL data is located at:
+DoE_Adaptive_Stiffness_WEC_PTO\HIL\Data
