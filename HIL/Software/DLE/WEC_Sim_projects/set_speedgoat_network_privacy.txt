@@ -1,0 +1,3 @@
+If unable to connect to the Speedgoat in Simulink Real-Time, try running the following command in a PowerShell session:
+
+Set-NetConnectionProfile -Name "Unidentified network" -NetworkCategory Private
