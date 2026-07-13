@@ -1,0 +1,14 @@
+{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2025b\toolbox\matlab\lang\run.m', 74)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2025b\toolbox\matlab\lang\run.m',74,0)">line 74</a>)
+wecSimInputFile not found.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('initializeWecSim', 'C:\Users\peace\Documents\WEC-Sim-main\WEC-Sim-main\source\functions\initializeWecSim.m', 56)" style="font-weight:bold">initializeWecSim</a> (<a href="matlab: opentoline('C:\Users\peace\Documents\WEC-Sim-main\WEC-Sim-main\source\functions\initializeWecSim.m',56,0)">line 56</a>)
+run('wecSimInputFile');
+^^^^^^^^^^^^^^^^^^^^^^
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2025b\toolbox\matlab\lang\run.m', 112)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2025b\toolbox\matlab\lang\run.m',112,0)">line 112</a>)
+evalin('caller', strcat(scriptStem, ';'));
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('wecSim', 'C:\Users\peace\Documents\WEC-Sim-main\WEC-Sim-main\source\wecSim.m', 39)" style="font-weight:bold">wecSim</a> (<a href="matlab: opentoline('C:\Users\peace\Documents\WEC-Sim-main\WEC-Sim-main\source\wecSim.m',39,0)">line 39</a>)
+run('initializeWecSim');
+^^^^^^^^^^^^^^^^^^^^^^^
+} 
+wecSim
